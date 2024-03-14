@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Home",
+    "link": "/",
+    "image": "/assets/images/logo.png"
+  },
+  {
+    "name": "Contact",
+    "link": "/contact.html",
+    "image": "/assets/images/logo.png"
+  },
+  {
+    "name": "Privacy Policy",
+    "link": "/privacy.html",
+    "image": "/assets/images/logo.png"
+  }, 
+  {
+    "name": "Terms of Use",
+    "link": "/terms.html",
+    "image": "/assets/images/logo.png"
+  },
+]
